@@ -20,6 +20,8 @@ public class gmail_login {
 WebDriver driver;
 String name="";
 
+//String name;
+
 
 @BeforeMethod
 public void openurl()throws InterruptedException
